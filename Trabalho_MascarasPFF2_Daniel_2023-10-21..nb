@@ -1,0 +1,372 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+TextData[{StyleBox["\[NonBreakingSpace]",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Filtro",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["eletrost\[AAcute]tico",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["presente",FontColor -> RGBColor[0,0,
+0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["em",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[AAcute]scaras",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"PFF2",FontColor -> RGBColor[0,0,0,1]],"\n","\[NonBreakingSpace]"}],"Title",TextAlignment -> Center,
+ExpressionUUID -> "25e73968-5526-45d3-823b-f6b39d9b5b8e",TextJustification -> 0],Cell[
+TextData[
+{"\[NonBreakingSpace]","Disciplina",StyleBox[RowBox[{":"," "}]],"Fundamentos"," ","de"," ","F\[IAcute]sica"," ","3","\n","\[NonBreakingSpace]","Turma",StyleBox[
+RowBox[{":"," "}]],"DQF10079"," ","-"," ","2023","/","2","\[NonBreakingSpace]","\n","\[NonBreakingSpace]","Professor",StyleBox[
+RowBox[{":"," "}]],"Roberto"," ","Colistete"," ","Junior","\n","\[NonBreakingSpace]","Aluno",StyleBox[
+RowBox[{":"," "}]],"Daniel"," ","Nonato"," ","Faria"," ","\n","\[NonBreakingSpace]","\n"}],
+"Text",TextAlignment -> Center,FontColor -> RGBColor[0,0,0,1],ExpressionUUID -> "457d2180-9904-4554-bed9-88dc93c3e2c9",
+TextJustification -> 0],Cell[
+TextData[{StyleBox["As",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[AAcute]scaras",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["N95",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox["PFF2",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["s\[ATilde]o",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["uma",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["classifica\[CCedilla]\[ATilde]o",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"m\[AAcute]scara",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["prote\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["respirat\[OAcute]ria",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["consideradas",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["padr\[ATilde]o",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"ouro",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"prote\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["por",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["sua",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["tecnologia",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["m\[UAcute]ltipla",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",
+FontColor -> RGBColor[0,0,0,1]],StyleBox["filtragem",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["em",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["camadas",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["fibra",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"\"",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["O",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["refor\[CCedilla]o",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["da",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["PFF2",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["est\[AAcute]",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["nas",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["seguintes",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["\[NonBreakingSpace]",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"camadas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["prote\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+RowBox[{StyleBox[":",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["externa",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"fibra",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["sint\[EAcute]tica",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["polipropileno",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[
+{StyleBox[";",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["do",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["meio",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"fibras",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["sint\[EAcute]tica",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["estrutural",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+";",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"camada",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["filtrante",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["fibra",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["sint\[EAcute]tica",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",
+FontColor -> RGBColor[0,0,0,1]],StyleBox["com",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["tratamento",FontColor -> RGBColor[0,
+0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["eletrost\[AAcute]tico",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["e",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["camada",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["interna",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["fibra",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["sint\[EAcute]tica",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"contato",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["facial",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+"\"",FontColor -> RGBColor[0,0,0,1]],StyleBox["(",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"Rocha",FontColor -> RGBColor[0,0,0,1]],StyleBox[",",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["L",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[".",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[")",FontColor -> RGBColor[0,0,0,1]],StyleBox[",",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["essa",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["filtragem",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["especial",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["que",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["se",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["utiliza",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["dos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["princ\[IAcute]pios",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"da",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"eletroest\[AAcute]tica",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"a",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"partir",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["eletretos",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["que",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["s\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["componentes",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["eletr\[OHat]nicos",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",
+FontColor -> RGBColor[0,0,0,1]],StyleBox["que",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["geram",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["campos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["el\[EAcute]tricos",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"as",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"camadas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["fibra",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["passam",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["a",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["ser",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["eletrizadas",FontColor -> RGBColor[0,0,0,1]],StyleBox["\[NonBreakingSpace]",
+FontColor -> RGBColor[0,0,0,1]],StyleBox["e",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["atraem",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["todo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["tipo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["part\[IAcute]culas",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"pr\[OAcute]ximas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["pela",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["atra\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["do",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["seu",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["polo",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["el\[EAcute]trico",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["oposto",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["ao",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["das",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["fibras",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["at\[EAcute]",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["mesmo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["as",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["part\[IAcute]culas",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"neutras",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["s\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["atra\[IAcute]das",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[
+{StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["j\[AAcute]",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["que",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["as",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["cargas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["internas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["se",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["reorganizam",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["ao",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["serem",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["afetadas",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["pelo",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["campo",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["el\[EAcute]trico",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",
+FontColor -> RGBColor[0,0,0,1]],StyleBox["e",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["se",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["tornando",FontColor -> RGBColor[0,0,
+0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["polarizadas",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["e",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["assim",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["a",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[AAcute]scara",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"garante",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["uma",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["maior",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["prote\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["que",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["vai",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["al\[EAcute]m",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["das",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[AAcute]scaras",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"filtros",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["simples",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"atravez",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["da",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["aplica\[CCedilla]\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["conceitos",FontColor -> RGBColor[0,
+0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["fis\[IAcute]cos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["o",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["modelo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["N95",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["alcan\[CCedilla]a",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"uma",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["\"",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["filtragem",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["material",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["particulado",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["de",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["pelo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["menos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["95",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox["%",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["(",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"segundo",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["a",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["norma",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["estadunidense",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[
+{StyleBox[")",FontColor -> RGBColor[0,0,0,1]],StyleBox["!",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["\"",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["Eduardo",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Akio",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Sato",FontColor -> RGBColor[0,0,0,1]],StyleBox["(",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["2021",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+")",FontColor -> RGBColor[0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["No",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["Brasil",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["encotramos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["os",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["modelos",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["aura",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["da",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["marca",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["3M",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["com",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["pre\[CCedilla]o",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"m\[EAcute]dio",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["5",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["R",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+"$",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"por",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"m\[AAcute]scara",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["o",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["modelo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["da",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["HJR",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["com",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["2",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox["50",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["R",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox["$",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["de",FontColor -> RGBColor[0,0,0,
+1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["pre\[CCedilla]o",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[EAcute]dio",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["e",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["a",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox["m\[AAcute]scara",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"da",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"marca",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,
+1]],StyleBox["KSN",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["por",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["3",FontColor -> RGBColor[0,0,0,1]],StyleBox[",",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["30",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["R",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+"$",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"como",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"ref\[EHat]rencias",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["de",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["m\[AAcute]scaras",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[
+{StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[StyleBox["N95",FontColor -> RGBColor[
+0,0,0,1]],FontColor -> RGBColor[0,0,0,1]],StyleBox[StyleBox["/",FontColor -> RGBColor[
+0,0,0,1]],FontColor -> RGBColor[0,0,0,1]],StyleBox[StyleBox["PFF2",FontColor -> RGBColor[
+0,0,0,1]],FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,
+0,1]],StyleBox["que",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["podem",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["ser",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["compradas",FontColor -> RGBColor[0,0,0,1]],StyleBox[".",FontColor -> RGBColor[
+0,0,0,1]],"\n","\n","\n","\n","\n",StyleBox["refer\[EHat]ncias",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[":",FontColor -> RGBColor[0,0,0,1]],"\n",StyleBox["Rocha",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["L",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+RowBox[{StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["CNN",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+".",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"S\[ATilde]o",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Paulo",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+".",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"10",FontColor -> RGBColor[0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"01",FontColor -> RGBColor[0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"2022",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"\[AGrave]s",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,
+0,0,1]],StyleBox["13",FontColor -> RGBColor[0,0,0,1]],StyleBox[":",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["57",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+",",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"Dispon\[IAcute]vel",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["em",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+":",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+RowBox[{StyleBox["https",FontColor -> RGBColor[0,0,0,1]],StyleBox[":",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["//",FontColor -> RGBColor[0,0,0,1]],StyleBox["www",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["cnnbrasil",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["com",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["br",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox["saude",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox["entenda",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["por",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["que",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["as",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["mascaras",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["do",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["tipo",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["pff2",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["sao",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["mais",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["eficazes",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["contra",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["a",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["covid",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["19",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/.",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Acesso",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["em",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+":",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"21",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"out",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[".",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["2023",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],"\n","\n",StyleBox["Akio",
+FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[",",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["E",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[RowBox[{StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["S",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+RowBox[{StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]]}]],StyleBox["Blogs",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Unicamp",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+".",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"Dispon\[IAcute]vel",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["em",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+":",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+RowBox[{StyleBox["https",FontColor -> RGBColor[0,0,0,1]],StyleBox[":",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["//",FontColor -> RGBColor[0,0,0,1]],StyleBox["www",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["blogs",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["unicamp",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],StyleBox["br",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox["covid",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["19",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/",FontColor -> RGBColor[0,0,0,1]],StyleBox["como",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["funcionam",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["as",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["mascaras",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["-",FontColor -> RGBColor[0,0,0,1]],StyleBox["n95",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["/.",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["Acesso",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[
+0,0,0,1]],StyleBox["em",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[
+":",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox[
+"21",FontColor -> RGBColor[0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]],StyleBox[
+"out",FontColor -> RGBColor[0,0,0,1]],StyleBox[RowBox[{StyleBox[".",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[" ",FontColor -> RGBColor[0,0,0,1]]}]],StyleBox["2023",FontColor -> RGBColor[
+0,0,0,1]],StyleBox[".",FontColor -> RGBColor[0,0,0,1]],"\n","\n",StyleBox["https://www.dentalspeed.com/mascara-aura-9320-br-pff2-3m-mmm19242a.html?gad_source=1",
+FontColor -> RGBColor[0,0,0,1]],"\n","\n",StyleBox["https://www.americanas.com.br/produto/3625157041/mascara-n95-de-protecao-facial-pacote-com-10-unidades?pfm_carac=mascara-n95&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=61019dac52131c3c810f728e",
+FontColor -> RGBColor[0,0,0,1]],"\n","\n",StyleBox["https://www.americanas.com.br/produto/5468358340/kit-10-mascaras-n95-pff2-aprovacao-inmetro-marca-ksn-azul-sem-valvula-descartavel?pfm_carac=mascara-n95&pfm_index=4&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=62e51921adbc5f39b97444ef",
+FontColor -> RGBColor[0,0,0,1]],"\n"}],"Text",ExpressionUUID -> "8cb8b48e-a7c5-419a-bfeb-c2a985126e13"],Cell[
+BoxData[
+""],"Input",ExpressionUUID -> "94168775-2120-4a3c-92e2-42083e7b0a34"]},Open],ExpressionUUID -> "dd94784e-5f86-425f-a30e-b582c3d4516b"]},
+StyleDefinitions -> "Default.nb",FrontEndVersion -> "13.3 for Wolfram Cloud 1.67 (October 4, 2023)"]
